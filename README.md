@@ -161,6 +161,6 @@ This repository includes:
 
 * Complete source code
 * Assignment PDF
-* Design-oriented structure suitable for demo and evaluation
+
 
 
