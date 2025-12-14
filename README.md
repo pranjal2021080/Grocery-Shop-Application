@@ -5,7 +5,7 @@
 
 ## 📌 **Project Overview**
 
-This repository contains an **Android application for grocery shop owners and customers**, developed as part of an academic assignment.
+This repository contains an **Android application for grocery shop owners and customers**.
 The application simulates a **multi-shop grocery marketplace**, supporting **inventory management, customer shopping, cart handling, order placement, and delivery estimation**.
 
 The project focuses on **real-world app design**, **role-based access**, and **end-to-end flow from item browsing to order completion**.
